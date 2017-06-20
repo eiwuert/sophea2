@@ -1,0 +1,109 @@
+/************ Custom Own Class **********************/
+.text-center{
+	text-align: center;
+}
+
+.sidebar-form > div > input:focus{
+    border-right: solid 0px !important;
+}
+/************ Forced Bootstrap CSS *******************/
+.action-btn{
+    font-size: 25px;
+}
+.primary{
+    color: #3C8DBC;
+}
+.danger{
+    color: #DD4B39;
+}
+.align-center{
+    text-align: center;
+}
+.main-sidebar{
+	background: #074E2D !important;
+}
+.skin-blue .main-header .navbar {
+    background: #367fa9 !important;
+}
+.skin-blue .main-header .logo {
+    background: #367fa9 !important;
+}
+.skin-blue .sidebar-form input[type="text"], .skin-blue .sidebar-form .btn{
+	background: rgb(58, 96, 68) !important;
+	color: white !important;
+}
+.treeview{
+	border-left-color: rgb(58, 96, 68) !important;
+}
+.wrapper{
+	/*background: #074E2D !important;*/
+        background: #222d32 !important;
+}
+.content{
+	padding-bottom: 15px !important;
+}
+.pagination-sm>a {
+	display: inline !important;
+	border-top-left-radius: 3px !important;
+	border-bottom-left-radius: 3px !important;
+}
+.pagination strong{
+	background: #fafafa !important;
+	color: #666 !important;
+	padding: 5px 10px !important;
+	font-size: 12px !important;
+	box-sizing: border-box !important;
+	display: inline-block !important;
+	border: 1px solid #ddd !important;
+	position: relative !important;
+	margin-left: -4px !important;
+}
+.pagination>a{
+	background: #fafafa !important;
+	color: #666 !important;
+	padding: 5px 10px !important;
+	font-size: 12px !important;
+	box-sizing: border-box !important;
+	display: inline-block !important;
+	border: 1px solid #ddd !important;
+	position: relative !important;
+	margin-left: -4px !important;
+}
+.pagination>a:hover,.pagination strong:hover {
+	background: #ecf0f5 !important;
+}
+.pagination{
+	display: inline !important;
+}
+
+body{
+    font-family: "Kantumruy" !important;
+    font-size: 13px !important;
+}
+
+.content-header > h1 > a{
+    font-family: "Preahvihear" !important;
+}
+
+.content-header > h1 > small{
+    font-family: "Preahvihear" !important;  
+}
+
+.box-header > .box-title {
+    font-family: "Kantumruy" !important;
+}
+
+.box-header > h4{
+    font-size: 14px !important;
+}
+
+.box-header > h3{
+    font-weight: bold !important;
+}
+
+/******************** Pagination Active ******************/
+    
+.pg-active{
+    background-color: #eee !important;
+}
+    

@@ -1,0 +1,212 @@
+2017-06-16 10:41:am --- ::1 ----> : ====> Execute Query ====>  DELETE FROM emedirec_sessions WHERE  `last_logins` <= DATE_SUB(NOW(), INTERVAL 12 MINUTE)
+2017-06-16 10:41:am --- ::1 ----> : ====> Execute Query ====>  DELETE FROM emedirec_sessions WHERE  `last_logins` <= DATE_SUB(NOW(), INTERVAL 12 MINUTE)
+2017-06-16 10:41:am --- ::1 ----> : ====> Execute Query ====>  DELETE FROM emedirec_sessions WHERE  `last_logins` <= DATE_SUB(NOW(), INTERVAL 12 MINUTE)
+2017-06-16 10:41:am --- ::1 ----> : ====> Execute Query ====>  DELETE FROM emedirec_sessions WHERE  `last_logins` <= DATE_SUB(NOW(), INTERVAL 12 MINUTE)
+2017-06-16 10:41:am --- ::1 ----> : ====> Execute Query ====>  DELETE FROM emedirec_sessions WHERE  `last_logins` <= DATE_SUB(NOW(), INTERVAL 12 MINUTE)
+2017-06-16 10:41:am --- ::1 ----> : ====> Execute Query ====>  DELETE FROM emedirec_sessions WHERE  `last_logins` <= DATE_SUB(NOW(), INTERVAL 12 MINUTE)
+2017-06-16 10:42:am --- ::1 ----> : ====> Execute Query ====> SELECT COUNT(*) AS `numrows` FROM `emedirec_sessions` WHERE `data` LIKE '%:"admin";%' AND DATE_ADD(`last_logins`, INTERVAL 12 MINUTE) > NOW()
+2017-06-16 10:42:am --- ::1 ----> : ====> Execute Query ====>  SELECT  * FROM  emedirec_1_user AS us JOIN emedirec_hospital AS ht ON ht.hospital_id = us.hospital_id WHERE  username = 'admin' AND hospital_code = 'H0000001'
+2017-06-16 10:42:am --- ::1 ----> 1:admin ====> Execute Query ====>  DELETE FROM emedirec_sessions WHERE  `last_logins` <= DATE_SUB(NOW(), INTERVAL 12 MINUTE)
+2017-06-16 10:42:am --- ::1 ----> 1:admin ====> Execute Query ====>  DELETE FROM emedirec_sessions WHERE  `last_logins` <= DATE_SUB(NOW(), INTERVAL 12 MINUTE)
+2017-06-16 10:42:am --- ::1 ----> 1:admin ====> Execute Query ====>  DELETE FROM emedirec_sessions WHERE  `last_logins` <= DATE_SUB(NOW(), INTERVAL 12 MINUTE)
+2017-06-16 10:42:am --- ::1 ----> 1:admin ====> Execute Query ====>  DELETE FROM emedirec_sessions WHERE  `last_logins` <= DATE_SUB(NOW(), INTERVAL 12 MINUTE)
+2017-06-16 10:42:am --- ::1 ----> 1:admin ====> Execute Query ====> SELECT COUNT(*) AS `numrows` FROM `emedirec_1_patient` WHERE `patient_deleted` =0 AND `patient_ready` =0
+2017-06-16 10:42:am --- ::1 ----> 1:admin ====> Execute Query ====>  DELETE FROM emedirec_sessions WHERE  `last_logins` <= DATE_SUB(NOW(), INTERVAL 12 MINUTE)
+2017-06-16 10:42:am --- ::1 ----> 1:admin ====> Execute Query ====>  DELETE FROM emedirec_sessions WHERE  `last_logins` <= DATE_SUB(NOW(), INTERVAL 12 MINUTE)
+2017-06-16 10:42:am --- ::1 ----> 1:admin ====> Execute Query ====>  DELETE FROM emedirec_sessions WHERE  `last_logins` <= DATE_SUB(NOW(), INTERVAL 12 MINUTE)
+2017-06-16 10:42:am --- ::1 ----> 1:admin ====> Execute Query ====>  DELETE FROM emedirec_sessions WHERE  `last_logins` <= DATE_SUB(NOW(), INTERVAL 12 MINUTE)
+2017-06-16 10:42:am --- ::1 ----> 1:admin ====> Execute Query ====> SELECT COUNT(*) AS `numrows` FROM `emedirec_1_patient` WHERE `patient_deleted` =0
+2017-06-16 10:42:am --- ::1 ----> 1:admin ====> Execute Query ====>  DELETE FROM emedirec_sessions WHERE  `last_logins` <= DATE_SUB(NOW(), INTERVAL 12 MINUTE)
+2017-06-16 10:42:am --- ::1 ----> 1:admin ====> Execute Query ====>  DELETE FROM emedirec_sessions WHERE  `last_logins` <= DATE_SUB(NOW(), INTERVAL 12 MINUTE)
+2017-06-16 10:42:am --- ::1 ----> 1:admin ====> Execute Query ====>  DELETE FROM emedirec_sessions WHERE  `last_logins` <= DATE_SUB(NOW(), INTERVAL 12 MINUTE)
+2017-06-16 10:42:am --- ::1 ----> 1:admin ====> Execute Query ====>  DELETE FROM emedirec_sessions WHERE  `last_logins` <= DATE_SUB(NOW(), INTERVAL 12 MINUTE)
+2017-06-16 10:42:am --- ::1 ----> 1:admin ====> Execute Query ====> SELECT COUNT(*) AS `numrows` FROM `emedirec_1_visitors` WHERE `visitors_status` = 1
+2017-06-16 10:42:am --- ::1 ----> 1:admin ====> Execute Query ====>  DELETE FROM emedirec_sessions WHERE  `last_logins` <= DATE_SUB(NOW(), INTERVAL 12 MINUTE)
+2017-06-16 10:42:am --- ::1 ----> 1:admin ====> Execute Query ====>  DELETE FROM emedirec_sessions WHERE  `last_logins` <= DATE_SUB(NOW(), INTERVAL 12 MINUTE)
+2017-06-16 10:42:am --- ::1 ----> 1:admin ====> Execute Query ====>  DELETE FROM emedirec_sessions WHERE  `last_logins` <= DATE_SUB(NOW(), INTERVAL 12 MINUTE)
+2017-06-16 10:42:am --- ::1 ----> 1:admin ====> Execute Query ====>  DELETE FROM emedirec_sessions WHERE  `last_logins` <= DATE_SUB(NOW(), INTERVAL 12 MINUTE)
+2017-06-16 10:42:am --- ::1 ----> 1:admin ====> Execute Query ====> SELECT COUNT(*) AS `numrows` FROM `emedirec_1_user` WHERE `user_deleted` =0
+2017-06-16 10:42:am --- ::1 ----> 1:admin ====> Execute Query ====>  DELETE FROM emedirec_sessions WHERE  `last_logins` <= DATE_SUB(NOW(), INTERVAL 12 MINUTE)
+2017-06-16 10:42:am --- ::1 ----> 1:admin ====> Execute Query ====>  DELETE FROM emedirec_sessions WHERE  `last_logins` <= DATE_SUB(NOW(), INTERVAL 12 MINUTE)
+2017-06-16 10:42:am --- ::1 ----> 1:admin ====> Execute Query ====>  DELETE FROM emedirec_sessions WHERE  `last_logins` <= DATE_SUB(NOW(), INTERVAL 12 MINUTE)
+2017-06-16 10:42:am --- ::1 ----> 1:admin ====> Execute Query ====>  DELETE FROM emedirec_sessions WHERE  `last_logins` <= DATE_SUB(NOW(), INTERVAL 12 MINUTE)
+2017-06-16 10:42:am --- ::1 ----> 1:admin ====> Execute Query ====> SELECT COUNT(*) AS `numrows` FROM `emedirec_1_icd10` WHERE `icd10_deleted` =0
+2017-06-16 10:42:am --- ::1 ----> 1:admin ====> Execute Query ====>  DELETE FROM emedirec_sessions WHERE  `last_logins` <= DATE_SUB(NOW(), INTERVAL 12 MINUTE)
+2017-06-16 10:42:am --- ::1 ----> 1:admin ====> Execute Query ====>  DELETE FROM emedirec_sessions WHERE  `last_logins` <= DATE_SUB(NOW(), INTERVAL 12 MINUTE)
+2017-06-16 10:42:am --- ::1 ----> 1:admin ====> Execute Query ====>  DELETE FROM emedirec_sessions WHERE  `last_logins` <= DATE_SUB(NOW(), INTERVAL 12 MINUTE)
+2017-06-16 10:42:am --- ::1 ----> 1:admin ====> Execute Query ====>  DELETE FROM emedirec_sessions WHERE  `last_logins` <= DATE_SUB(NOW(), INTERVAL 12 MINUTE)
+2017-06-16 10:42:am --- ::1 ----> 1:admin ====> Execute Query ====> SELECT COUNT(*) AS `numrows` FROM `emedirec_1_visitors` WHERE `visitors_status` = 2
+2017-06-16 10:42:am --- ::1 ----> 1:admin ====> Execute Query ====>  DELETE FROM emedirec_sessions WHERE  `last_logins` <= DATE_SUB(NOW(), INTERVAL 12 MINUTE)
+2017-06-16 10:42:am --- ::1 ----> 1:admin ====> Execute Query ====>  DELETE FROM emedirec_sessions WHERE  `last_logins` <= DATE_SUB(NOW(), INTERVAL 12 MINUTE)
+2017-06-16 10:42:am --- ::1 ----> 1:admin ====> Execute Query ====>  DELETE FROM emedirec_sessions WHERE  `last_logins` <= DATE_SUB(NOW(), INTERVAL 12 MINUTE)
+2017-06-16 10:42:am --- ::1 ----> 1:admin ====> Execute Query ====>  DELETE FROM emedirec_sessions WHERE  `last_logins` <= DATE_SUB(NOW(), INTERVAL 12 MINUTE)
+2017-06-16 10:42:am --- ::1 ----> 1:admin ====> Execute Query ====> SELECT COUNT(*) AS `numrows` FROM `emedirec_1_products` WHERE `products_deleted` =0 AND `categories_id` NOT IN (7,8)
+2017-06-16 10:42:am --- ::1 ----> 1:admin ====> Execute Query ====>  DELETE FROM emedirec_sessions WHERE  `last_logins` <= DATE_SUB(NOW(), INTERVAL 12 MINUTE)
+2017-06-16 10:42:am --- ::1 ----> 1:admin ====> Execute Query ====>  DELETE FROM emedirec_sessions WHERE  `last_logins` <= DATE_SUB(NOW(), INTERVAL 12 MINUTE)
+2017-06-16 10:42:am --- ::1 ----> 1:admin ====> Execute Query ====>  DELETE FROM emedirec_sessions WHERE  `last_logins` <= DATE_SUB(NOW(), INTERVAL 12 MINUTE)
+2017-06-16 10:42:am --- ::1 ----> 1:admin ====> Execute Query ====>  DELETE FROM emedirec_sessions WHERE  `last_logins` <= DATE_SUB(NOW(), INTERVAL 12 MINUTE)
+2017-06-16 10:42:am --- ::1 ----> 1:admin ====> Execute Query ====> SELECT COUNT(*) AS `numrows` FROM `emedirec_1_products` WHERE `products_deleted` =0 AND `categories_id` IN (7,8)
+2017-06-16 10:42:am --- ::1 ----> 1:admin ====> Execute Query ====>  DELETE FROM emedirec_sessions WHERE  `last_logins` <= DATE_SUB(NOW(), INTERVAL 12 MINUTE)
+2017-06-16 10:42:am --- ::1 ----> 1:admin ====> Execute Query ====>  DELETE FROM emedirec_sessions WHERE  `last_logins` <= DATE_SUB(NOW(), INTERVAL 12 MINUTE)
+2017-06-16 10:42:am --- ::1 ----> 1:admin ====> Execute Query ====>  DELETE FROM emedirec_sessions WHERE  `last_logins` <= DATE_SUB(NOW(), INTERVAL 12 MINUTE)
+2017-06-16 10:42:am --- ::1 ----> 1:admin ====> Execute Query ====>  DELETE FROM emedirec_sessions WHERE  `last_logins` <= DATE_SUB(NOW(), INTERVAL 12 MINUTE)
+2017-06-16 10:42:am --- ::1 ----> 1:admin ====> Execute Query ====>  SELECT  DATE_FORMAT(appoitments_time,'%d/%m/%Y %h:%i %p') AS appoitments_time, pt.patient_kh_name, pt.patient_en_name, name FROM emedirec_1_appoinments AS ap LEFT JOIN emedirec_1_visitors AS vs ON vs.visitors_id = ap.visitors_id LEFT JOIN emedirec_1_patient AS pt ON vs.patient_id = pt.patient_id  LEFT JOIN emedirec_1_user AS us ON us.uid = ap.uid  WHERE  appionments_deleted = 0 AND appoitments_time >= NOW() ORDER BY appoitments_time ASC
+2017-06-16 10:42:am --- ::1 ----> 1:admin ====> Execute Query ====>  DELETE FROM emedirec_sessions WHERE  `last_logins` <= DATE_SUB(NOW(), INTERVAL 12 MINUTE)
+2017-06-16 10:42:am --- ::1 ----> 1:admin ====> Execute Query ====>  DELETE FROM emedirec_sessions WHERE  `last_logins` <= DATE_SUB(NOW(), INTERVAL 12 MINUTE)
+2017-06-16 10:42:am --- ::1 ----> 1:admin ====> Execute Query ====>  DELETE FROM emedirec_sessions WHERE  `last_logins` <= DATE_SUB(NOW(), INTERVAL 12 MINUTE)
+2017-06-16 10:42:am --- ::1 ----> 1:admin ====> Execute Query ====>  DELETE FROM emedirec_sessions WHERE  `last_logins` <= DATE_SUB(NOW(), INTERVAL 12 MINUTE)
+2017-06-16 10:42:am --- ::1 ----> 1:admin ====> Execute Query ====>  SELECT  permissions_action FROM emedirec_role_permissions WHERE  permissions_section = 'mDiagnostic' AND roles_id =1
+2017-06-16 10:42:am --- ::1 ----> 1:admin ====> Execute Query ====>  SELECT  * FROM emedirec_hospital WHERE  hospital_status = 1
+2017-06-16 10:42:am --- ::1 ----> 1:admin ====> Execute Query ====> SELECT COUNT(*) AS `numrows` FROM `emedirec_1_visitors` WHERE `visitors_status` = 1
+2017-06-16 10:42:am --- ::1 ----> 1:admin ====> Execute Query ====>  DELETE FROM emedirec_sessions WHERE  `last_logins` <= DATE_SUB(NOW(), INTERVAL 12 MINUTE)
+2017-06-16 10:42:am --- ::1 ----> 1:admin ====> Execute Query ====>  DELETE FROM emedirec_sessions WHERE  `last_logins` <= DATE_SUB(NOW(), INTERVAL 12 MINUTE)
+2017-06-16 10:42:am --- ::1 ----> 1:admin ====> Execute Query ====>  SELECT  * FROM emedirec_1_visitors AS vs JOIN emedirec_1_patient AS pt ON vs.patient_id = pt.patient_id WHERE 	visitors_status = 1
+2017-06-16 10:42:am --- ::1 ----> 1:admin ====> Execute Query ====>  DELETE FROM emedirec_sessions WHERE  `last_logins` <= DATE_SUB(NOW(), INTERVAL 12 MINUTE)
+2017-06-16 10:42:am --- ::1 ----> 1:admin ====> Execute Query ====>  DELETE FROM emedirec_sessions WHERE  `last_logins` <= DATE_SUB(NOW(), INTERVAL 12 MINUTE)
+2017-06-16 10:42:am --- ::1 ----> 1:admin ====> Execute Query ====>  DELETE FROM emedirec_sessions WHERE  `last_logins` <= DATE_SUB(NOW(), INTERVAL 12 MINUTE)
+2017-06-16 10:42:am --- ::1 ----> 1:admin ====> Execute Query ====>  DELETE FROM emedirec_sessions WHERE  `last_logins` <= DATE_SUB(NOW(), INTERVAL 12 MINUTE)
+2017-06-16 10:42:am --- ::1 ----> 1:admin ====> Execute Query ====>  SELECT  permissions_action FROM emedirec_role_permissions WHERE  permissions_section = 'mDiagnostic' AND roles_id =1
+2017-06-16 10:42:am --- ::1 ----> 1:admin ====> Execute Query ====>  SELECT  * FROM emedirec_hospital WHERE  hospital_status = 1
+2017-06-16 10:42:am --- ::1 ----> 1:admin ====> Execute Query ====> SELECT COUNT(*) AS `numrows` FROM `emedirec_1_visitors` WHERE `visitors_status` = 1
+2017-06-16 10:42:am --- ::1 ----> 1:admin ====> Execute Query ====>  DELETE FROM emedirec_sessions WHERE  `last_logins` <= DATE_SUB(NOW(), INTERVAL 12 MINUTE)
+2017-06-16 10:42:am --- ::1 ----> 1:admin ====> Execute Query ====>  DELETE FROM emedirec_sessions WHERE  `last_logins` <= DATE_SUB(NOW(), INTERVAL 12 MINUTE)
+2017-06-16 10:42:am --- ::1 ----> 1:admin ====> Execute Query ====>  SELECT  * FROM emedirec_1_visitors AS vs JOIN emedirec_1_patient AS pt ON vs.patient_id = pt.patient_id WHERE 	visitors_status = 1
+2017-06-16 10:42:am --- ::1 ----> 1:admin ====> Execute Query ====>  DELETE FROM emedirec_sessions WHERE  `last_logins` <= DATE_SUB(NOW(), INTERVAL 12 MINUTE)
+2017-06-16 10:42:am --- ::1 ----> 1:admin ====> Execute Query ====>  DELETE FROM emedirec_sessions WHERE  `last_logins` <= DATE_SUB(NOW(), INTERVAL 12 MINUTE)
+2017-06-16 10:47:am --- ::1 ----> 1:admin ====> Execute Query ====>  DELETE FROM emedirec_sessions WHERE  `last_logins` <= DATE_SUB(NOW(), INTERVAL 12 MINUTE)
+2017-06-16 10:47:am --- ::1 ----> 1:admin ====> Execute Query ====>  DELETE FROM emedirec_sessions WHERE  `last_logins` <= DATE_SUB(NOW(), INTERVAL 12 MINUTE)
+2017-06-16 10:47:am --- ::1 ----> 1:admin ====> Execute Query ====>  SELECT  * FROM emedirec_hospital WHERE  hospital_status = 1
+2017-06-16 10:47:am --- ::1 ----> 1:admin ====> Execute Query ====> SELECT COUNT(*) AS `numrows` FROM `emedirec_1_patient` WHERE `patient_deleted` =0
+2017-06-16 10:47:am --- ::1 ----> 1:admin ====> Execute Query ====>  SELECT  * FROM emedirec_1_rooms WHERE  room_deleted = 0
+2017-06-16 10:47:am --- ::1 ----> 1:admin ====> Execute Query ====>  SELECT  * FROM emedirec_1_wards WHERE  wards_deleted = 0
+2017-06-16 10:47:am --- ::1 ----> 1:admin ====> Execute Query ====>  SELECT  * FROM emedirec_1_user WHERE  user_deleted = 0
+2017-06-16 10:47:am --- ::1 ----> 1:admin ====> Execute Query ====>  DELETE FROM emedirec_sessions WHERE  `last_logins` <= DATE_SUB(NOW(), INTERVAL 12 MINUTE)
+2017-06-16 10:47:am --- ::1 ----> 1:admin ====> Execute Query ====>  DELETE FROM emedirec_sessions WHERE  `last_logins` <= DATE_SUB(NOW(), INTERVAL 12 MINUTE)
+2017-06-16 10:47:am --- ::1 ----> 1:admin ====> Execute Query ====>  SELECT  * FROM emedirec_1_patient WHERE  patient_deleted = 0 AND patient_ready = 0 ORDER BY register_date DESC
+2017-06-16 10:47:am --- ::1 ----> 1:admin ====> Execute Query ====>  DELETE FROM emedirec_sessions WHERE  `last_logins` <= DATE_SUB(NOW(), INTERVAL 12 MINUTE)
+2017-06-16 10:47:am --- ::1 ----> 1:admin ====> Execute Query ====>  DELETE FROM emedirec_sessions WHERE  `last_logins` <= DATE_SUB(NOW(), INTERVAL 12 MINUTE)
+2017-06-16 10:47:am --- ::1 ----> 1:admin ====> Execute Query ====>  DELETE FROM emedirec_sessions WHERE  `last_logins` <= DATE_SUB(NOW(), INTERVAL 12 MINUTE)
+2017-06-16 10:47:am --- ::1 ----> 1:admin ====> Execute Query ====>  DELETE FROM emedirec_sessions WHERE  `last_logins` <= DATE_SUB(NOW(), INTERVAL 12 MINUTE)
+2017-06-16 10:47:am --- ::1 ----> 1:admin ====> Execute Query ====>  SELECT  * FROM emedirec_hospital WHERE  hospital_status = 1
+2017-06-16 10:47:am --- ::1 ----> 1:admin ====> Execute Query ====> SELECT COUNT(*) AS `numrows` FROM `emedirec_1_patient` WHERE `patient_deleted` =0
+2017-06-16 10:47:am --- ::1 ----> 1:admin ====> Execute Query ====>  SELECT  * FROM emedirec_1_rooms WHERE  room_deleted = 0
+2017-06-16 10:47:am --- ::1 ----> 1:admin ====> Execute Query ====>  SELECT  * FROM emedirec_1_wards WHERE  wards_deleted = 0
+2017-06-16 10:47:am --- ::1 ----> 1:admin ====> Execute Query ====>  SELECT  * FROM emedirec_1_user WHERE  user_deleted = 0
+2017-06-16 10:47:am --- ::1 ----> 1:admin ====> Execute Query ====>  DELETE FROM emedirec_sessions WHERE  `last_logins` <= DATE_SUB(NOW(), INTERVAL 12 MINUTE)
+2017-06-16 10:47:am --- ::1 ----> 1:admin ====> Execute Query ====>  DELETE FROM emedirec_sessions WHERE  `last_logins` <= DATE_SUB(NOW(), INTERVAL 12 MINUTE)
+2017-06-16 10:47:am --- ::1 ----> 1:admin ====> Execute Query ====>  SELECT  * FROM emedirec_1_patient WHERE  patient_deleted = 0 AND patient_ready = 0 ORDER BY register_date DESC
+2017-06-16 10:47:am --- ::1 ----> 1:admin ====> Execute Query ====>  DELETE FROM emedirec_sessions WHERE  `last_logins` <= DATE_SUB(NOW(), INTERVAL 12 MINUTE)
+2017-06-16 10:47:am --- ::1 ----> 1:admin ====> Execute Query ====>  DELETE FROM emedirec_sessions WHERE  `last_logins` <= DATE_SUB(NOW(), INTERVAL 12 MINUTE)
+2017-06-16 11:05:am --- ::1 ----> : ====> Execute Query ====>  DELETE FROM emedirec_sessions WHERE  `last_logins` <= DATE_SUB(NOW(), INTERVAL 12 MINUTE)
+2017-06-16 11:05:am --- ::1 ----> : ====> Execute Query ====>  DELETE FROM emedirec_sessions WHERE  `last_logins` <= DATE_SUB(NOW(), INTERVAL 12 MINUTE)
+2017-06-16 11:05:am --- ::1 ----> : ====> Execute Query ====>  DELETE FROM emedirec_sessions WHERE  `last_logins` <= DATE_SUB(NOW(), INTERVAL 12 MINUTE)
+2017-06-16 11:05:am --- ::1 ----> : ====> Execute Query ====>  DELETE FROM emedirec_sessions WHERE  `last_logins` <= DATE_SUB(NOW(), INTERVAL 12 MINUTE)
+2017-06-16 11:05:am --- ::1 ----> : ====> Execute Query ====> SELECT COUNT(*) AS `numrows` FROM `emedirec_sessions` WHERE `data` LIKE '%:"admin";%' AND DATE_ADD(`last_logins`, INTERVAL 12 MINUTE) > NOW()
+2017-06-16 11:05:am --- ::1 ----> : ====> Execute Query ====>  SELECT  * FROM  emedirec_1_user AS us JOIN emedirec_hospital AS ht ON ht.hospital_id = us.hospital_id WHERE  username = 'admin' AND hospital_code = 'H0000001'
+2017-06-16 11:05:am --- ::1 ----> 1:admin ====> Execute Query ====>  DELETE FROM emedirec_sessions WHERE  `last_logins` <= DATE_SUB(NOW(), INTERVAL 12 MINUTE)
+2017-06-16 11:05:am --- ::1 ----> 1:admin ====> Execute Query ====>  DELETE FROM emedirec_sessions WHERE  `last_logins` <= DATE_SUB(NOW(), INTERVAL 12 MINUTE)
+2017-06-16 11:05:am --- ::1 ----> 1:admin ====> Execute Query ====>  DELETE FROM emedirec_sessions WHERE  `last_logins` <= DATE_SUB(NOW(), INTERVAL 12 MINUTE)
+2017-06-16 11:05:am --- ::1 ----> 1:admin ====> Execute Query ====>  DELETE FROM emedirec_sessions WHERE  `last_logins` <= DATE_SUB(NOW(), INTERVAL 12 MINUTE)
+2017-06-16 11:05:am --- ::1 ----> 1:admin ====> Execute Query ====> SELECT COUNT(*) AS `numrows` FROM `emedirec_1_user` WHERE `user_deleted` =0
+2017-06-16 11:05:am --- ::1 ----> 1:admin ====> Execute Query ====>  DELETE FROM emedirec_sessions WHERE  `last_logins` <= DATE_SUB(NOW(), INTERVAL 12 MINUTE)
+2017-06-16 11:05:am --- ::1 ----> 1:admin ====> Execute Query ====>  DELETE FROM emedirec_sessions WHERE  `last_logins` <= DATE_SUB(NOW(), INTERVAL 12 MINUTE)
+2017-06-16 11:05:am --- ::1 ----> 1:admin ====> Execute Query ====>  DELETE FROM emedirec_sessions WHERE  `last_logins` <= DATE_SUB(NOW(), INTERVAL 12 MINUTE)
+2017-06-16 11:05:am --- ::1 ----> 1:admin ====> Execute Query ====>  DELETE FROM emedirec_sessions WHERE  `last_logins` <= DATE_SUB(NOW(), INTERVAL 12 MINUTE)
+2017-06-16 11:05:am --- ::1 ----> 1:admin ====> Execute Query ====> SELECT COUNT(*) AS `numrows` FROM `emedirec_1_visitors` WHERE `visitors_status` = 2
+2017-06-16 11:05:am --- ::1 ----> 1:admin ====> Execute Query ====>  DELETE FROM emedirec_sessions WHERE  `last_logins` <= DATE_SUB(NOW(), INTERVAL 12 MINUTE)
+2017-06-16 11:05:am --- ::1 ----> 1:admin ====> Execute Query ====>  DELETE FROM emedirec_sessions WHERE  `last_logins` <= DATE_SUB(NOW(), INTERVAL 12 MINUTE)
+2017-06-16 11:05:am --- ::1 ----> 1:admin ====> Execute Query ====>  DELETE FROM emedirec_sessions WHERE  `last_logins` <= DATE_SUB(NOW(), INTERVAL 12 MINUTE)
+2017-06-16 11:05:am --- ::1 ----> 1:admin ====> Execute Query ====>  DELETE FROM emedirec_sessions WHERE  `last_logins` <= DATE_SUB(NOW(), INTERVAL 12 MINUTE)
+2017-06-16 11:05:am --- ::1 ----> 1:admin ====> Execute Query ====> SELECT COUNT(*) AS `numrows` FROM `emedirec_1_patient` WHERE `patient_deleted` =0 AND `patient_ready` =0
+2017-06-16 11:05:am --- ::1 ----> 1:admin ====> Execute Query ====>  DELETE FROM emedirec_sessions WHERE  `last_logins` <= DATE_SUB(NOW(), INTERVAL 12 MINUTE)
+2017-06-16 11:05:am --- ::1 ----> 1:admin ====> Execute Query ====>  DELETE FROM emedirec_sessions WHERE  `last_logins` <= DATE_SUB(NOW(), INTERVAL 12 MINUTE)
+2017-06-16 11:05:am --- ::1 ----> 1:admin ====> Execute Query ====>  DELETE FROM emedirec_sessions WHERE  `last_logins` <= DATE_SUB(NOW(), INTERVAL 12 MINUTE)
+2017-06-16 11:05:am --- ::1 ----> 1:admin ====> Execute Query ====>  DELETE FROM emedirec_sessions WHERE  `last_logins` <= DATE_SUB(NOW(), INTERVAL 12 MINUTE)
+2017-06-16 11:05:am --- ::1 ----> 1:admin ====> Execute Query ====> SELECT COUNT(*) AS `numrows` FROM `emedirec_1_icd10` WHERE `icd10_deleted` =0
+2017-06-16 11:05:am --- ::1 ----> 1:admin ====> Execute Query ====>  DELETE FROM emedirec_sessions WHERE  `last_logins` <= DATE_SUB(NOW(), INTERVAL 12 MINUTE)
+2017-06-16 11:05:am --- ::1 ----> 1:admin ====> Execute Query ====>  DELETE FROM emedirec_sessions WHERE  `last_logins` <= DATE_SUB(NOW(), INTERVAL 12 MINUTE)
+2017-06-16 11:05:am --- ::1 ----> 1:admin ====> Execute Query ====>  DELETE FROM emedirec_sessions WHERE  `last_logins` <= DATE_SUB(NOW(), INTERVAL 12 MINUTE)
+2017-06-16 11:05:am --- ::1 ----> 1:admin ====> Execute Query ====>  DELETE FROM emedirec_sessions WHERE  `last_logins` <= DATE_SUB(NOW(), INTERVAL 12 MINUTE)
+2017-06-16 11:05:am --- ::1 ----> 1:admin ====> Execute Query ====> SELECT COUNT(*) AS `numrows` FROM `emedirec_1_patient` WHERE `patient_deleted` =0
+2017-06-16 11:05:am --- ::1 ----> 1:admin ====> Execute Query ====>  DELETE FROM emedirec_sessions WHERE  `last_logins` <= DATE_SUB(NOW(), INTERVAL 12 MINUTE)
+2017-06-16 11:05:am --- ::1 ----> 1:admin ====> Execute Query ====>  DELETE FROM emedirec_sessions WHERE  `last_logins` <= DATE_SUB(NOW(), INTERVAL 12 MINUTE)
+2017-06-16 11:05:am --- ::1 ----> 1:admin ====> Execute Query ====>  DELETE FROM emedirec_sessions WHERE  `last_logins` <= DATE_SUB(NOW(), INTERVAL 12 MINUTE)
+2017-06-16 11:05:am --- ::1 ----> 1:admin ====> Execute Query ====>  DELETE FROM emedirec_sessions WHERE  `last_logins` <= DATE_SUB(NOW(), INTERVAL 12 MINUTE)
+2017-06-16 11:05:am --- ::1 ----> 1:admin ====> Execute Query ====> SELECT COUNT(*) AS `numrows` FROM `emedirec_1_visitors` WHERE `visitors_status` = 1
+2017-06-16 11:05:am --- ::1 ----> 1:admin ====> Execute Query ====>  DELETE FROM emedirec_sessions WHERE  `last_logins` <= DATE_SUB(NOW(), INTERVAL 12 MINUTE)
+2017-06-16 11:05:am --- ::1 ----> 1:admin ====> Execute Query ====>  DELETE FROM emedirec_sessions WHERE  `last_logins` <= DATE_SUB(NOW(), INTERVAL 12 MINUTE)
+2017-06-16 11:05:am --- ::1 ----> 1:admin ====> Execute Query ====>  DELETE FROM emedirec_sessions WHERE  `last_logins` <= DATE_SUB(NOW(), INTERVAL 12 MINUTE)
+2017-06-16 11:05:am --- ::1 ----> 1:admin ====> Execute Query ====>  DELETE FROM emedirec_sessions WHERE  `last_logins` <= DATE_SUB(NOW(), INTERVAL 12 MINUTE)
+2017-06-16 11:05:am --- ::1 ----> 1:admin ====> Execute Query ====> SELECT COUNT(*) AS `numrows` FROM `emedirec_1_products` WHERE `products_deleted` =0 AND `categories_id` NOT IN (7,8)
+2017-06-16 11:05:am --- ::1 ----> 1:admin ====> Execute Query ====>  DELETE FROM emedirec_sessions WHERE  `last_logins` <= DATE_SUB(NOW(), INTERVAL 12 MINUTE)
+2017-06-16 11:05:am --- ::1 ----> 1:admin ====> Execute Query ====>  DELETE FROM emedirec_sessions WHERE  `last_logins` <= DATE_SUB(NOW(), INTERVAL 12 MINUTE)
+2017-06-16 11:05:am --- ::1 ----> 1:admin ====> Execute Query ====>  DELETE FROM emedirec_sessions WHERE  `last_logins` <= DATE_SUB(NOW(), INTERVAL 12 MINUTE)
+2017-06-16 11:05:am --- ::1 ----> 1:admin ====> Execute Query ====>  DELETE FROM emedirec_sessions WHERE  `last_logins` <= DATE_SUB(NOW(), INTERVAL 12 MINUTE)
+2017-06-16 11:05:am --- ::1 ----> 1:admin ====> Execute Query ====> SELECT COUNT(*) AS `numrows` FROM `emedirec_1_products` WHERE `products_deleted` =0 AND `categories_id` IN (7,8)
+2017-06-16 11:05:am --- ::1 ----> 1:admin ====> Execute Query ====>  DELETE FROM emedirec_sessions WHERE  `last_logins` <= DATE_SUB(NOW(), INTERVAL 12 MINUTE)
+2017-06-16 11:05:am --- ::1 ----> 1:admin ====> Execute Query ====>  DELETE FROM emedirec_sessions WHERE  `last_logins` <= DATE_SUB(NOW(), INTERVAL 12 MINUTE)
+2017-06-16 11:05:am --- ::1 ----> 1:admin ====> Execute Query ====>  DELETE FROM emedirec_sessions WHERE  `last_logins` <= DATE_SUB(NOW(), INTERVAL 12 MINUTE)
+2017-06-16 11:05:am --- ::1 ----> 1:admin ====> Execute Query ====>  DELETE FROM emedirec_sessions WHERE  `last_logins` <= DATE_SUB(NOW(), INTERVAL 12 MINUTE)
+2017-06-16 11:05:am --- ::1 ----> 1:admin ====> Execute Query ====>  SELECT  DATE_FORMAT(appoitments_time,'%d/%m/%Y %h:%i %p') AS appoitments_time, pt.patient_kh_name, pt.patient_en_name, name FROM emedirec_1_appoinments AS ap LEFT JOIN emedirec_1_visitors AS vs ON vs.visitors_id = ap.visitors_id LEFT JOIN emedirec_1_patient AS pt ON vs.patient_id = pt.patient_id  LEFT JOIN emedirec_1_user AS us ON us.uid = ap.uid  WHERE  appionments_deleted = 0 AND appoitments_time >= NOW() ORDER BY appoitments_time ASC
+2017-06-16 11:05:am --- ::1 ----> 1:admin ====> Execute Query ====>  DELETE FROM emedirec_sessions WHERE  `last_logins` <= DATE_SUB(NOW(), INTERVAL 12 MINUTE)
+2017-06-16 11:05:am --- ::1 ----> 1:admin ====> Execute Query ====>  DELETE FROM emedirec_sessions WHERE  `last_logins` <= DATE_SUB(NOW(), INTERVAL 12 MINUTE)
+2017-06-16 11:05:am --- ::1 ----> 1:admin ====> Execute Query ====>  DELETE FROM emedirec_sessions WHERE  `last_logins` <= DATE_SUB(NOW(), INTERVAL 12 MINUTE)
+2017-06-16 11:05:am --- ::1 ----> 1:admin ====> Execute Query ====>  DELETE FROM emedirec_sessions WHERE  `last_logins` <= DATE_SUB(NOW(), INTERVAL 12 MINUTE)
+2017-06-16 11:05:am --- ::1 ----> 1:admin ====> Execute Query ====>  SELECT  permissions_action FROM emedirec_role_permissions WHERE  permissions_section = 'mDiagnostic' AND roles_id =1
+2017-06-16 11:05:am --- ::1 ----> 1:admin ====> Execute Query ====>  SELECT  * FROM emedirec_hospital WHERE  hospital_status = 1
+2017-06-16 11:05:am --- ::1 ----> 1:admin ====> Execute Query ====> SELECT COUNT(*) AS `numrows` FROM `emedirec_1_visitors` WHERE `visitors_status` = 1
+2017-06-16 11:05:am --- ::1 ----> 1:admin ====> Execute Query ====>  DELETE FROM emedirec_sessions WHERE  `last_logins` <= DATE_SUB(NOW(), INTERVAL 12 MINUTE)
+2017-06-16 11:05:am --- ::1 ----> 1:admin ====> Execute Query ====>  DELETE FROM emedirec_sessions WHERE  `last_logins` <= DATE_SUB(NOW(), INTERVAL 12 MINUTE)
+2017-06-16 11:05:am --- ::1 ----> 1:admin ====> Execute Query ====>  SELECT  * FROM emedirec_1_visitors AS vs JOIN emedirec_1_patient AS pt ON vs.patient_id = pt.patient_id WHERE 	visitors_status = 1
+2017-06-16 11:05:am --- ::1 ----> 1:admin ====> Execute Query ====>  DELETE FROM emedirec_sessions WHERE  `last_logins` <= DATE_SUB(NOW(), INTERVAL 12 MINUTE)
+2017-06-16 11:05:am --- ::1 ----> 1:admin ====> Execute Query ====>  DELETE FROM emedirec_sessions WHERE  `last_logins` <= DATE_SUB(NOW(), INTERVAL 12 MINUTE)
+2017-06-16 11:06:am --- ::1 ----> 1:admin ====> Execute Query ====>  DELETE FROM emedirec_sessions WHERE  `last_logins` <= DATE_SUB(NOW(), INTERVAL 12 MINUTE)
+2017-06-16 11:06:am --- ::1 ----> 1:admin ====> Execute Query ====>  DELETE FROM emedirec_sessions WHERE  `last_logins` <= DATE_SUB(NOW(), INTERVAL 12 MINUTE)
+2017-06-16 11:06:am --- ::1 ----> 1:admin ====> Execute Query ====>  SELECT  permissions_action FROM emedirec_role_permissions WHERE  permissions_section = 'mDiagnostic' AND roles_id =1
+2017-06-16 11:06:am --- ::1 ----> 1:admin ====> Execute Query ====>  SELECT  * FROM emedirec_hospital WHERE  hospital_status = 1
+2017-06-16 11:06:am --- ::1 ----> 1:admin ====> Execute Query ====> SELECT COUNT(*) AS `numrows` FROM `emedirec_1_visitors` WHERE `visitors_status` = 1
+2017-06-16 11:06:am --- ::1 ----> 1:admin ====> Execute Query ====>  DELETE FROM emedirec_sessions WHERE  `last_logins` <= DATE_SUB(NOW(), INTERVAL 12 MINUTE)
+2017-06-16 11:06:am --- ::1 ----> 1:admin ====> Execute Query ====>  DELETE FROM emedirec_sessions WHERE  `last_logins` <= DATE_SUB(NOW(), INTERVAL 12 MINUTE)
+2017-06-16 11:06:am --- ::1 ----> 1:admin ====> Execute Query ====>  SELECT  * FROM emedirec_1_visitors AS vs JOIN emedirec_1_patient AS pt ON vs.patient_id = pt.patient_id WHERE 	visitors_status = 1
+2017-06-16 11:06:am --- ::1 ----> 1:admin ====> Execute Query ====>  DELETE FROM emedirec_sessions WHERE  `last_logins` <= DATE_SUB(NOW(), INTERVAL 12 MINUTE)
+2017-06-16 11:06:am --- ::1 ----> 1:admin ====> Execute Query ====>  DELETE FROM emedirec_sessions WHERE  `last_logins` <= DATE_SUB(NOW(), INTERVAL 12 MINUTE)
+2017-06-16 11:06:am --- ::1 ----> 1:admin ====> Execute Query ====>  DELETE FROM emedirec_sessions WHERE  `last_logins` <= DATE_SUB(NOW(), INTERVAL 12 MINUTE)
+2017-06-16 11:06:am --- ::1 ----> 1:admin ====> Execute Query ====>  DELETE FROM emedirec_sessions WHERE  `last_logins` <= DATE_SUB(NOW(), INTERVAL 12 MINUTE)
+2017-06-16 11:06:am --- ::1 ----> 1:admin ====> Execute Query ====>  SELECT  permissions_action FROM emedirec_role_permissions WHERE  permissions_section = 'mDiagnostic' AND roles_id =1
+2017-06-16 11:06:am --- ::1 ----> 1:admin ====> Execute Query ====>  SELECT  * FROM emedirec_hospital WHERE  hospital_status = 1
+2017-06-16 11:06:am --- ::1 ----> 1:admin ====> Execute Query ====> SELECT COUNT(*) AS `numrows` FROM `emedirec_1_visitors` WHERE `visitors_status` = 1
+2017-06-16 11:06:am --- ::1 ----> 1:admin ====> Execute Query ====>  DELETE FROM emedirec_sessions WHERE  `last_logins` <= DATE_SUB(NOW(), INTERVAL 12 MINUTE)
+2017-06-16 11:06:am --- ::1 ----> 1:admin ====> Execute Query ====>  DELETE FROM emedirec_sessions WHERE  `last_logins` <= DATE_SUB(NOW(), INTERVAL 12 MINUTE)
+2017-06-16 11:06:am --- ::1 ----> 1:admin ====> Execute Query ====>  SELECT  * FROM emedirec_1_visitors AS vs JOIN emedirec_1_patient AS pt ON vs.patient_id = pt.patient_id WHERE 	visitors_status = 1
+2017-06-16 11:06:am --- ::1 ----> 1:admin ====> Execute Query ====>  DELETE FROM emedirec_sessions WHERE  `last_logins` <= DATE_SUB(NOW(), INTERVAL 12 MINUTE)
+2017-06-16 11:06:am --- ::1 ----> 1:admin ====> Execute Query ====>  DELETE FROM emedirec_sessions WHERE  `last_logins` <= DATE_SUB(NOW(), INTERVAL 12 MINUTE)
+2017-06-16 11:06:am --- ::1 ----> 1:admin ====> Execute Query ====>  DELETE FROM emedirec_sessions WHERE  `last_logins` <= DATE_SUB(NOW(), INTERVAL 12 MINUTE)
+2017-06-16 11:06:am --- ::1 ----> 1:admin ====> Execute Query ====>  DELETE FROM emedirec_sessions WHERE  `last_logins` <= DATE_SUB(NOW(), INTERVAL 12 MINUTE)
+2017-06-16 11:06:am --- ::1 ----> 1:admin ====> Execute Query ====>  SELECT  permissions_action FROM emedirec_role_permissions WHERE  permissions_section = 'mDiagnostic' AND roles_id =1
+2017-06-16 11:06:am --- ::1 ----> 1:admin ====> Execute Query ====>  SELECT  * FROM emedirec_hospital WHERE  hospital_status = 1
+2017-06-16 11:06:am --- ::1 ----> 1:admin ====> Execute Query ====> SELECT COUNT(*) AS `numrows` FROM `emedirec_1_visitors` WHERE `visitors_status` = 1
+2017-06-16 11:06:am --- ::1 ----> 1:admin ====> Execute Query ====>  DELETE FROM emedirec_sessions WHERE  `last_logins` <= DATE_SUB(NOW(), INTERVAL 12 MINUTE)
+2017-06-16 11:06:am --- ::1 ----> 1:admin ====> Execute Query ====>  DELETE FROM emedirec_sessions WHERE  `last_logins` <= DATE_SUB(NOW(), INTERVAL 12 MINUTE)
+2017-06-16 11:06:am --- ::1 ----> 1:admin ====> Execute Query ====>  SELECT  * FROM emedirec_1_visitors AS vs JOIN emedirec_1_patient AS pt ON vs.patient_id = pt.patient_id WHERE 	visitors_status = 1
+2017-06-16 11:06:am --- ::1 ----> 1:admin ====> Execute Query ====>  DELETE FROM emedirec_sessions WHERE  `last_logins` <= DATE_SUB(NOW(), INTERVAL 12 MINUTE)
+2017-06-16 11:06:am --- ::1 ----> 1:admin ====> Execute Query ====>  DELETE FROM emedirec_sessions WHERE  `last_logins` <= DATE_SUB(NOW(), INTERVAL 12 MINUTE)
+2017-06-16 11:06:am --- ::1 ----> 1:admin ====> Execute Query ====>  DELETE FROM emedirec_sessions WHERE  `last_logins` <= DATE_SUB(NOW(), INTERVAL 12 MINUTE)
+2017-06-16 11:06:am --- ::1 ----> 1:admin ====> Execute Query ====>  DELETE FROM emedirec_sessions WHERE  `last_logins` <= DATE_SUB(NOW(), INTERVAL 12 MINUTE)
+2017-06-16 11:06:am --- ::1 ----> 1:admin ====> Execute Query ====>  SELECT  permissions_action FROM emedirec_role_permissions WHERE  permissions_section = 'mDiagnostic' AND roles_id =1
+2017-06-16 11:06:am --- ::1 ----> 1:admin ====> Execute Query ====>  SELECT  * FROM emedirec_hospital WHERE  hospital_status = 1
+2017-06-16 11:06:am --- ::1 ----> 1:admin ====> Execute Query ====> SELECT COUNT(*) AS `numrows` FROM `emedirec_1_visitors` WHERE `visitors_status` = 1
+2017-06-16 11:06:am --- ::1 ----> 1:admin ====> Execute Query ====>  DELETE FROM emedirec_sessions WHERE  `last_logins` <= DATE_SUB(NOW(), INTERVAL 12 MINUTE)
+2017-06-16 11:06:am --- ::1 ----> 1:admin ====> Execute Query ====>  DELETE FROM emedirec_sessions WHERE  `last_logins` <= DATE_SUB(NOW(), INTERVAL 12 MINUTE)
+2017-06-16 11:06:am --- ::1 ----> 1:admin ====> Execute Query ====>  SELECT  * FROM emedirec_1_visitors AS vs JOIN emedirec_1_patient AS pt ON vs.patient_id = pt.patient_id WHERE 	visitors_status = 1
+2017-06-16 11:06:am --- ::1 ----> 1:admin ====> Execute Query ====>  DELETE FROM emedirec_sessions WHERE  `last_logins` <= DATE_SUB(NOW(), INTERVAL 12 MINUTE)
+2017-06-16 11:06:am --- ::1 ----> 1:admin ====> Execute Query ====>  DELETE FROM emedirec_sessions WHERE  `last_logins` <= DATE_SUB(NOW(), INTERVAL 12 MINUTE)
+2017-06-16 11:08:am --- ::1 ----> 1:admin ====> Execute Query ====>  DELETE FROM emedirec_sessions WHERE  `last_logins` <= DATE_SUB(NOW(), INTERVAL 12 MINUTE)
+2017-06-16 11:08:am --- ::1 ----> 1:admin ====> Execute Query ====>  DELETE FROM emedirec_sessions WHERE  `last_logins` <= DATE_SUB(NOW(), INTERVAL 12 MINUTE)
+2017-06-16 11:08:am --- ::1 ----> 1:admin ====> Execute Query ====>  SELECT  permissions_action FROM emedirec_role_permissions WHERE  permissions_section = 'mDiagnostic' AND roles_id =1
+2017-06-16 11:08:am --- ::1 ----> 1:admin ====> Execute Query ====>  SELECT  * FROM emedirec_hospital WHERE  hospital_status = 1
+2017-06-16 11:08:am --- ::1 ----> 1:admin ====> Execute Query ====> SELECT COUNT(*) AS `numrows` FROM `emedirec_1_visitors` WHERE `visitors_status` = 1
+2017-06-16 11:08:am --- ::1 ----> 1:admin ====> Execute Query ====>  DELETE FROM emedirec_sessions WHERE  `last_logins` <= DATE_SUB(NOW(), INTERVAL 12 MINUTE)
+2017-06-16 11:08:am --- ::1 ----> 1:admin ====> Execute Query ====>  DELETE FROM emedirec_sessions WHERE  `last_logins` <= DATE_SUB(NOW(), INTERVAL 12 MINUTE)
+2017-06-16 11:08:am --- ::1 ----> 1:admin ====> Execute Query ====>  SELECT  * FROM emedirec_1_visitors AS vs JOIN emedirec_1_patient AS pt ON vs.patient_id = pt.patient_id WHERE 	visitors_status = 1
+2017-06-16 11:08:am --- ::1 ----> 1:admin ====> Execute Query ====>  DELETE FROM emedirec_sessions WHERE  `last_logins` <= DATE_SUB(NOW(), INTERVAL 12 MINUTE)
+2017-06-16 11:08:am --- ::1 ----> 1:admin ====> Execute Query ====>  DELETE FROM emedirec_sessions WHERE  `last_logins` <= DATE_SUB(NOW(), INTERVAL 12 MINUTE)

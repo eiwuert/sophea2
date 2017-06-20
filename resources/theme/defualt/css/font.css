@@ -1,0 +1,49 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Feb 22, 2016, 8:00:57 AM
+    Author     : administrator
+*/
+
+@font-face {
+  font-family: 'Moul';
+  src: url('../font/moul.ttf');
+}
+
+@font-face {
+  font-family: 'Preahvihear';
+  src: url('../font/preahvihear.ttf');
+}
+
+@font-face {
+  font-family: 'Kantumruy';
+  src: url('../font/kantumruy-regular.ttf');
+}
+
+@font-face {
+  font-family: 'Kantumruy Bold';
+  src: url('../font/kantumruy-bold.ttf');
+}
+
+@font-face {
+  font-family: 'Ubuntu';
+  src: url('../font/ubuntu-regular.ttf');
+}
+
+@font-face {
+  font-family: 'C3924DL';
+  src: url('../font/c3924dl.ttf');
+}
+
+@font-face {
+  font-family: 'C3924DH';
+  src: url('../font/c3924dh.ttf');
+}
+
+@font-face {
+  font-family: 'C3936DL';
+  src: url('../font/c3936dl.ttf');
+}
