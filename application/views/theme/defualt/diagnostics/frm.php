@@ -59,7 +59,7 @@
 	    }
 	?>
 	<body>
-		<div style="float:left"><img style="width:50px !important" src="<?php echo base_url("resources/theme/defualt/img/logoPrint.png")?>"/></div>
+		<div style="float:left"><img style="width:50px !important" src="<?php echo base_url("resources/theme/defualt/img/bc_logo.png")?>"/></div>
 			<center style="color:#2F3290 !important;font-size:15px;position: relative;left: -30px;">ប័ណ្ណចាក់ថ្នាំ និងសេរ៉ូម</center>
 		<div style="float:right;position: relative; color:#F17795 !important;font-size:18px"></div>
 		<br/><br/>
@@ -139,7 +139,7 @@
 	    }
 	?>
 	<body>
-		<div style="float:left"><img style="width:50px !important" src="<?php echo $resources?>img/logoPrint.png"/></div>
+		<div style="float:left"><img style="width:50px !important" src="<?php echo $resources?>img/bc_logo.png"/></div>
 			<center style="color:#2F3290 !important;font-size:15px;position: relative;left: -30px;">Diode Laser</center>
 		<div style="float:right;position: relative; color:#F17795 !important">&nbsp;</div>
 		<br/><br/>
@@ -217,7 +217,7 @@
 	?>
 	
 	<body>
-		<div style="float:left"><img style="width:50px !important" src="<?php echo $resources?>img/logoPrint.png"/></div>
+		<div style="float:left"><img style="width:50px !important" src="<?php echo $resources?>img/bc_logo.png"/></div>
 			<center style="color:#2F3290 !important;font-size:15px;position: relative;left: -30px;">Q-Switch Laser</center>
 		<div style="float:right;position: relative; color:#F17795 !important">&nbsp;</div>
 		<br/><br/>
@@ -291,7 +291,7 @@
 	?>
 	<body>
 	    
-	    <div style="float:left"><img style="width:50px !important" src="<?php echo base_url("resources/theme/defualt/img/logoPrint.png")?>"/></div>
+	    <div style="float:left"><img style="width:50px !important" src="<?php echo base_url("resources/theme/defualt/img/bc_logo.png")?>"/></div>
 			<center style="color:#2F3290 !important;font-size:15px;position: relative;left: -30px;">ប័ណ្ណចាក់ខ្លាញ់</center>
 		<div style="float:right;position: relative; color:#F17795 !important;font-size:18px"></div>
 		<br/><br/>
@@ -373,7 +373,7 @@
 	?>
 	
 	<body>
-	    <div style="float:left"><img style="width:50px !important" src="<?php echo base_url("resources/theme/defualt/img/logoPrint.png")?>"/></div>
+	    <div style="float:left"><img style="width:50px !important" src="<?php echo base_url("resources/theme/defualt/img/bc_logo.png")?>"/></div>
 			<center style="color:#2F3290 !important;font-size:15px;position: relative;left: -30px;">CPL Laser</center>
 		<div style="float:right;position: relative; color:#F17795 !important">&nbsp;</div>
 		<br/><br/>
@@ -456,7 +456,7 @@
 	?>
 	
 	<body>
-	    <div style="float:left"><img style="width:50px !important" src="<?php echo base_url("resources/theme/defualt/img/logoPrint.png")?>"/></div>
+	    <div style="float:left"><img style="width:50px !important" src="<?php echo base_url("resources/theme/defualt/img/bc_logo.png")?>"/></div>
 			<center style="color:#2F3290 !important;font-size:15px;position: relative;left: -30px;">Erbium Vag Laser</center>
 		<div style="float:right;position: relative;color:#F17795 !important ">&nbsp;</div>
 		<br/><br/>
@@ -533,7 +533,7 @@
 	    }
 	?>
 	<body>
-		<div style="float:left"><img style="width:50px !important" src="<?php echo base_url("resources/theme/defualt/img/logoPrint.png")?>"/></div>
+		<div style="float:left"><img style="width:50px !important" src="<?php echo base_url("resources/theme/defualt/img/bc_logo.png")?>"/></div>
 			<center style="color:#2F3290 !important;font-size:15px;position: relative;left: -30px;">ប័ណ្ណភៀសមុខ (Facial Peeling)</center>
 		<div style="float:right;position: relative; color:#F17795 !important;font-size:18px"></div>
 		<br/><br/>
@@ -627,7 +627,7 @@
 	?>
 	
 	<body>
-	    <div style="float:left"><img style="width:50px !important" src="<?php echo base_url("resources/theme/defualt/img/logoPrint.png")?>"/></div>
+	    <div style="float:left"><img style="width:50px !important" src="<?php echo base_url("resources/theme/defualt/img/bc_logo.png")?>"/></div>
 			<center style="color:#2F3290 !important;font-size:15px;position: relative;left: -30px;">Anti Aging Treatment</center>
 		<div style="float:right;position: relative; color:#F17795 !important;font-size:18px"></div>
 		<br/><br/>
@@ -728,7 +728,7 @@
 	
 	<body>
 		<div style="min-height:690px; padding-top:2px">
-			<div style="float:left"><img style="width:50px !important" src="<?php echo base_url("resources/theme/defualt/img/logoPrint.png")?>"/></div>
+			<div style="float:left"><img style="width:50px !important" src="<?php echo base_url("resources/theme/defualt/img/bc_logo.png")?>"/></div>
 			<center style="color:#2F3290 !important;font-size:15px;position: relative;left: -30px;">មន្ទីរពេទ្យសម្ភពសោភាហ្គោល<br>Sorphear maternity hospital<br><br><br> </center>
 			<div style="float:right;position: relative;top:-44px; color:#F17795 !important;font-size:15px">វេជ្ជបញ្ជា</div>
 			<div style="float:left;width:100% !important padding:0px !important; margin:0px !important; background-color:yellow">
@@ -838,7 +838,7 @@
 	    }
 	?>
 		<div style="min-height:690px; padding-top:2px">
-		    <div style="float:left"><img style="width:50px !important" src="<?php echo base_url("resources/theme/defualt/img/logoPrint.png")?>"/></div>
+		    <div style="float:left"><img style="width:50px !important" src="<?php echo base_url("resources/theme/defualt/img/bc_logo.png")?>"/></div>
 			<center style="color:#2F3290 !important;font-size:15px;position: relative;left: -30px;">មន្ទីរពេទ្យសម្ភពសោភាហ្គោល<br>Sorphear maternity hospital<br></center>
             	<div style="width:100%; float:left; font-size: 9px">
 	
@@ -851,7 +851,7 @@
 
 						<div style="width:50%; float:right; line-height: 15px; border-left:solid 1px #ccc; padding-left: 6px;">
 							<span style="text-decoration:underline;"><b>ទូរស័ព្ទទំនាក់ទំនង:</b></span><br>
-							<span>- មន្ទីពេទ្យសម្ភពសោភា ១: 023 223 876, 097 970 0070,<br>011 951 002</span><br>
+							<span>- មន្ទីពេទ្យសម្ភពសោភា ១: 023 223 876, 097 970 0070, 011 951 002</span><br>
 							<span>- មន្ទីពេទ្យសម្ភពសោភា VIP: 023 223 872, 092 821 867</span><br>
 							<span>- មន្ទីពេទ្យសម្ភពសោភា GOLD: 023223873, 012 844 522</span><br>
 						</div>
@@ -1073,7 +1073,7 @@
 
 						<div style="width:50%; float:right; line-height: 15px; border-left:solid 1px #ccc; padding-left: 6px;">
 							<span style="text-decoration:underline;"><b>ទូរស័ព្ទទំនាក់ទំនង:</b></span><br>
-							<span>- មន្ទីពេទ្យសម្ភពសោភា ១: 023 223 876, 097 970 0070,<br>011 951 002</span><br>
+							<span>- មន្ទីពេទ្យសម្ភពសោភា ១: 023 223 876, 097 970 0070, 011 951 002</span><br>
 							<span>- មន្ទីពេទ្យសម្ភពសោភា VIP: 023 223 872, 092 821 867</span><br>
 							<span>- មន្ទីពេទ្យសម្ភពសោភា GOLD: 023223873, 012 844 522</span><br>
 						</div>

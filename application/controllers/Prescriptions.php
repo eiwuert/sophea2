@@ -22,9 +22,9 @@ class Prescriptions extends Securities {
 	$rtype = explode('_', $this->getUrlSegment3());
 	$this->WardModel->setPrintType($rtype[0]);
 	$this->DiagnosticModel->setVisitorId($rtype[1]);
-    $this->AppoinmentModel->setVisitorId($rtype[1]);
+        $this->AppoinmentModel->setVisitorId($rtype[1]);
 	$data['uids'] = $this->getSession('name');
-    $data['uphones'] = $this->getSession('phone');
+        $data['uphones'] = $this->getSession('phone');
 	$data['frm'] = $this->form_type();
 	if($data['frm'] == 'Ordernant'){
 		$numOrdernant = "1";
